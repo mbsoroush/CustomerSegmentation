@@ -1,8 +1,6 @@
-# Customer Segmentation
+# Customer Segmentation 🛍️
 Customer segmentation is the practice of categorizing customers into distinct groups based on shared characteristics, enabling companies to target and tailor their marketing strategies to each group effectively. Customers are typically segmented based on their similarities in behavior, preferences, and purchasing habits.
 
-# Countries Clustering 🌍
-This project applies clustering algorithms to categorize world countries based on socio-economic and health indicators. The goal is to identify patterns in development and assist organizations like HELP International in making data-driven decisions for resource allocation.
 
 ## 📦 Dataset
 The dataset used in this project is available on my Kaggle page:  
